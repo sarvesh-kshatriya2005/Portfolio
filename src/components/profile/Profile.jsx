@@ -1,4 +1,4 @@
-import person from "../../assets/images/person2.png";
+import person from "../../assets/images/person.webp";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faDownload } from "@fortawesome/free-solid-svg-icons";
 import { Link as ScrollLink } from "react-scroll";
